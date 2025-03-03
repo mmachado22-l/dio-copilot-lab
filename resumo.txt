@@ -1,0 +1,21 @@
+Relato, agora, minha jornada pelo Copilot Studio, uma experiência que me proporcionou uma boa compreensão e prática sobre como desenvolver assistentes personalizados.
+Acessei o site do Copilot Studio, onde cliquei no botão de login e inseri minhas credenciais da conta Microsoft 365. 
+Durante esse processo, passei pela etapa de autenticação multifator, o que me fez sentir seguro ao confirmar minha identidade com um código enviado para meu telefone, demonstrando a preocupação da plataforma com a segurança dos usuários. 
+Após conceder as permissões necessárias para que o Copilot Studio pudesse acessar minhas informações e arquivos, comecei a configurar minhas preferências e explorar todas as ferramentas disponíveis.
+
+Ao me aprofundar na plataforma, primeiro criei um copilot do tipo "Safe Travels", imaginando um assistente virtual que pudesse ajudar os viajantes a obter informações sobre destinos, dicas de segurança, requisitos de visto e atualizações em tempo real. 
+Essa experiência me permitiu experimentar o processo de criação de um Copilot personalizado. Eu configurei fontes de conhecimento internas, inserindo documentos e FAQs, além de integrar APIs externas para trazer dados atualizados, como informações climáticas e alertas de viagem. 
+Também customizei o comportamento do assistente definindo um tom de voz acolhedor e informativo, o que envolveu a criação de fluxos de conversa detalhados e a implementação de variáveis e condicionais para que as respostas fossem adaptadas às necessidades dos usuários. 
+Testei cada cenário com simulações de conversa e ajustei parâmetros como temperatura e top-p para garantir que o assistente respondesse de forma coerente e útil, transformando o processo de planejamento de viagem em uma experiência mais interativa e dinâmica.
+
+Em seguida, explorei a criação de um Copilot baseado em inteligência artificial, onde pude definir claramente o propósito do assistente, identificar as necessidades dos usuários e mapear cenários de interação. 
+Essa etapa me mostrou a importância de desenvolver fluxos de diálogo naturais e adaptativos, que utilizam variáveis para personalizar cada resposta e condicionais para direcionar a conversa de acordo com as entradas dos usuários. Integrei fontes de conhecimento, tanto internas quanto externas, e percebi como a inteligência artificial pode evoluir com o aprendizado de cada interação, aprimorando continuamente a qualidade do atendimento. 
+Essa experiência foi bem interesse, pois demonstrou como a combinação de tecnologia avançada e um design centrado no usuário pode criar interações mais humanas e eficientes.
+Por fim, realizei a criação de um Copilot em branco, que me ofereceu total liberdade para desenvolver uma solução completamente personalizada, sem as limitações dos modelos pré-definidos. 
+Ao optar por essa abordagem, aprendi que é possível moldar cada aspecto do assistente, desde a escolha do nome e do idioma principal até a definição da personalidade e do tom de voz, além de construir fluxos de conversa complexos e integrados com sistemas internos e APIs externas. 
+Durante esse processo, percebi a flexibilidade que o Copilot Studio proporciona, permitindo que o assistente seja ajustado para atender a requisitos específicos e inovadores, além de seguir as melhores práticas recomendadas na documentação da Microsoft. 
+Essa etapa reforçou a importância do planejamento detalhado e da iteração contínua, já que cada teste e cada feedback contribuíram para o refinamento do produto final, garantindo uma experiência de usuário de alta qualidade.
+
+Ao concluir esse laboratorio de Copilot Studio, senti que adquiri um conhecimento robusto e prático sobre o desenvolvimento de assistentes virtuais, compreendendo desde os aspectos básicos de conexão e autenticação até as técnicas avançadas de personalização e integração de fluxos de conversa. 
+A experiência me permitiu ver de perto como a plataforma possibilita a criação de soluções inovadoras e eficientes, que podem transformar a forma como interagimos com a tecnologia e oferecer um suporte personalizado e ágil aos usuários. 
+Essa jornada me inspirou a continuar explorando as potencialidades do Copilot Studio, ciente de que, com dedicação e criatividade, é possível desenvolver ferramentas que realmente façam a diferença no dia a dia das pessoas.
