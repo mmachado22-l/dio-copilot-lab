@@ -1,0 +1,10 @@
+Hoje iniciei o desenvolvimento de um Copilot personalizado com foco em agricultura no Copilot Studio. Fiz login com minha conta Microsoft 365, acessei a plataforma e criei um novo projeto. 
+Segui o guia para definir o propósito do assistente, que seria fornecer informações técnicas e práticas sobre manejo agrícola, condições climáticas, controle de pragas e recomendações de insumos. 
+Escolhi o idioma Português e defini um tom de voz que se adequasse ao setor, mantendo a linguagem técnica, porém clara e direta.
+
+Em seguida, criei os fluxos de conversa, utilizando variáveis e condições para que as respostas se ajustassem às dúvidas sobre cultivo, irrigação e outros temas agrícolas. 
+Integrei APIs externas para acessar dados atualizados, como previsões do tempo e preços de insumos, e ajustei os parâmetros de GenAI, como a temperatura e o top-p, para balancear a precisão com uma resposta natural. 
+Também configurei mensagens de erro e fallback, de modo que, se o assistente não encontrasse a informação solicitada, ele pudesse redirecionar a consulta com instruções claras.
+
+Realizei testes simulando interações comuns, revisei as respostas e fiz os ajustes necessários. 
+Ao final, revisei todas as configurações e preparei o projeto para uma fase de testes com usuários reais, consolidando o que aprendi sobre a criação de um Copilot personalizado para o setor agrícola utilizando os recursos de GenAI.
